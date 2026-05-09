@@ -110,7 +110,7 @@ Automated-Resume-Screening-Tool/
 | Storage | SQLite | Candidate/job/ranking persistence |
 | Dashboard | Streamlit | Visual recruiter interface |
 | REST API | FastAPI + Uvicorn | API endpoints for integration |
-| Evaluation | ROC-AUC, PR-AUC | Model quality metrics |
+
 
 ---
 
@@ -154,12 +154,6 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-
-**With custom options:**
-```bash
-python main.py --resumes resumes/ --jd data/job_description.txt --threshold 0.45
-```
-
 ### Option B: Streamlit Dashboard
 
 ```bash
@@ -173,13 +167,6 @@ Opens at: `http://localhost:8501`
 uvicorn api.app:app --reload
 ```
 API docs at: `http://localhost:8000/docs`
-
-### Option D: Evaluation
-
-```bash
-python notebooks/eval.py
-```
-
 ---
 
 ## 📊 Sample Output
@@ -292,19 +279,6 @@ This tool is designed with fairness principles:
 - ✅ All decisions are **explainable** (reasons provided per candidate)
 - ✅ Threshold is **configurable** by the recruiter
 - ✅ Human review is expected before final decisions
-
----
-
-## 📅 Build Timeline (Day-wise)
-
-| Day | Task | Output |
-|-----|------|--------|
-| Day 1 | Setup, venv, install libs | Working Python environment |
-| Day 2 | Resume text extraction | Extracted text from all resumes |
-| Day 3 | JD parsing + skill matching | Matched skills per candidate |
-| Day 4 | Scoring + ranking | Ranked candidate list |
-| Day 5 | CSV report + dashboard | Outputs + Streamlit UI |
-| Day 6 | GitHub upload + README | Public repo with documentation |
 
 ---
 
