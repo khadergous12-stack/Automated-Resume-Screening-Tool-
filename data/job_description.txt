@@ -1,0 +1,40 @@
+JOB TITLE: Data Analyst
+
+COMPANY: TechCorp Analytics
+
+LOCATION: New York, NY (Hybrid)
+
+ABOUT THE ROLE:
+We are looking for a skilled Data Analyst to join our Business Intelligence team.
+You will be responsible for analyzing large datasets, creating dashboards, and providing
+actionable insights to support business decisions.
+
+REQUIRED SKILLS (Must Have):
+- SQL (Advanced: complex queries, joins, stored procedures)
+- Python (Data analysis: Pandas, NumPy)
+- Excel (Advanced: pivot tables, macros, VBA)
+- Power BI (Dashboard creation and DAX formulas)
+- Statistical analysis and data visualization
+
+NICE TO HAVE:
+- Tableau
+- R programming
+- Machine Learning basics
+- Cloud platforms (AWS, Azure, GCP)
+- ETL pipeline experience
+
+EXPERIENCE REQUIRED:
+- Minimum 2 years of experience as a Data Analyst
+- Experience with large datasets (1M+ rows)
+- Experience presenting insights to non-technical stakeholders
+
+EDUCATION:
+- Bachelor's degree in Computer Science, Statistics, Mathematics, or related field
+
+RESPONSIBILITIES:
+- Build and maintain Power BI dashboards for executive reporting
+- Write complex SQL queries to extract and transform data
+- Automate reporting using Python scripts
+- Perform statistical analysis to identify trends and patterns
+- Collaborate with cross-functional teams to gather data requirements
+- Present findings to stakeholders clearly and concisely

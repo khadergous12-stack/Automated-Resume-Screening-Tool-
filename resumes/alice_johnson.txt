@@ -1,0 +1,32 @@
+Alice Johnson
+Email: alice.johnson@email.com | Phone: +1-555-0101
+Location: New York, NY
+
+SUMMARY
+Data Analyst with 4 years of experience in SQL, Python, and Excel. Skilled in Power BI dashboards,
+statistical analysis, and business intelligence reporting.
+
+SKILLS
+- Languages: Python, SQL, R
+- Tools: Excel, Power BI, Tableau, Jupyter Notebook
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- Databases: MySQL, PostgreSQL
+- Other: Data Cleaning, ETL Pipelines, Statistical Analysis, Git
+
+EXPERIENCE
+Senior Data Analyst | DataCorp Inc. | 2021 - Present (3 years)
+- Built 15+ Power BI dashboards for C-suite reporting
+- Wrote complex SQL queries joining 10+ tables to extract business insights
+- Automated Excel reporting using Python, saving 20 hours/month
+
+Junior Data Analyst | Analytics Ltd. | 2019 - 2021 (2 years)
+- Created automated Python scripts for data cleaning and transformation
+- Developed Excel models for financial forecasting with 95% accuracy
+- Worked with SQL databases to extract KPI metrics
+
+EDUCATION
+B.Tech in Computer Science | New York University | 2019
+
+CERTIFICATIONS
+- Google Data Analytics Professional Certificate (2022)
+- Microsoft Power BI Data Analyst Associate (2023)

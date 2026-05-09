@@ -1,0 +1,34 @@
+Eva Martinez
+Email: eva.martinez@email.com | Phone: +1-555-0505
+Location: Miami, FL
+
+SUMMARY
+Data Scientist with 3 years of experience in Python, Machine Learning, and SQL.
+Strong skills in Scikit-learn, TensorFlow, and data visualization. Experience with Power BI.
+
+SKILLS
+- Languages: Python, SQL, R, Scala
+- ML/AI: Scikit-learn, TensorFlow, PyTorch, XGBoost
+- Tools: Power BI, Jupyter, Docker, Airflow
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- Databases: PostgreSQL, MongoDB, Snowflake
+- Other: Machine Learning, Deep Learning, NLP, Feature Engineering
+
+EXPERIENCE
+Data Scientist | AI Labs Inc. | 2021 - Present (3 years)
+- Built classification models with 92% accuracy using Scikit-learn and XGBoost
+- Developed NLP pipeline to process 1M+ customer reviews
+- Created Power BI dashboards for ML model performance monitoring
+- Wrote SQL queries for feature extraction from data warehouse (Snowflake)
+
+Junior Data Analyst | MarketMetrics | 2020 - 2021 (1 year)
+- Performed exploratory data analysis using Python and Pandas
+- Built Excel and Power BI reports for marketing team
+
+EDUCATION
+M.Sc. in Data Science | University of Miami | 2020
+B.Tech in Computer Science | Florida International University | 2018
+
+CERTIFICATIONS
+- AWS Certified Machine Learning Specialty
+- TensorFlow Developer Certificate

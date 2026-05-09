@@ -1,0 +1,35 @@
+CAROL PATEL
+Email: carol.patel@email.com | Phone: +91-9988776655 | Location: Pune, India
+
+PROFESSIONAL SUMMARY
+Machine Learning Engineer with 4 years of experience in NLP, deep learning, and model deployment.
+Strong background in TensorFlow, PyTorch, and scikit-learn. Published 2 research papers.
+
+SKILLS
+- ML/AI: TensorFlow, PyTorch, Scikit-learn, HuggingFace, spaCy, NLTK
+- Programming: Python, SQL, Scala
+- Tools: Docker, Kubernetes, MLflow, Weights & Biases
+- Cloud: AWS (SageMaker, S3, EC2), GCP
+- Databases: PostgreSQL, MongoDB, Redis
+- Others: Git, Linux, FastAPI, Airflow
+
+WORK EXPERIENCE
+ML Engineer | AIWave Technologies | Mar 2020 – Present (4 years)
+- Designed NLP pipeline for resume parsing achieving 91% entity extraction accuracy
+- Deployed BERT-based classification model reducing false positives by 30%
+- Built end-to-end MLflow pipeline for model versioning and A/B testing
+
+Data Scientist | Analytics Hub | Jan 2020 – Mar 2020 (3 months)
+- Prototyped recommendation engine using collaborative filtering
+
+EDUCATION
+M.Tech in Artificial Intelligence | IIT Pune | 2020 | CGPA: 9.1
+B.Tech in Computer Science | Pune University | 2018 | CGPA: 8.8
+
+CERTIFICATIONS
+- AWS Certified Machine Learning Specialty (2022)
+- Deep Learning Specialization – Coursera (2021)
+
+PROJECTS
+Resume Screening AI: End-to-end NLP pipeline using BERT + FastAPI + Docker.
+Sentiment Analysis API: Real-time Twitter sentiment with 94% accuracy.

@@ -1,0 +1,39 @@
+# =============================================================
+# requirements.txt
+# Automated Resume Screening Tool - Dependencies
+# =============================================================
+
+# Core Data Science
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# PDF Extraction (choose one or both)
+pdfplumber>=0.10.0
+PyPDF2>=3.0.0
+
+# DOCX Extraction
+python-docx>=1.1.0
+
+# Fuzzy Matching (optional - for advanced skill matching)
+rapidfuzz>=3.5.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.13.0
+
+# Optional: Web Dashboard
+streamlit>=1.30.0
+
+# Optional: REST API
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.5.0
+python-multipart>=0.0.6
+
+# Optional: Sentence Transformers (Advanced - requires PyTorch)
+# sentence-transformers>=2.2.2
+
+# Utilities
+python-dotenv>=1.0.0

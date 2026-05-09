@@ -1,0 +1,26 @@
+David Kumar
+Email: david.kumar@email.com | Phone: +1-555-0404
+Location: Austin, TX
+
+SUMMARY
+Recent graduate with 1 year of experience. Familiar with Python and basic data analysis.
+Enthusiastic about learning SQL and business intelligence tools.
+
+SKILLS
+- Languages: Python (basic), R (academic)
+- Tools: Excel, Google Sheets
+- Learning: SQL, Power BI, Tableau
+
+EXPERIENCE
+Data Intern | LocalBiz Analytics | 2023 - Present (1 year)
+- Assisted with basic Python data cleaning tasks
+- Created simple Excel reports for sales tracking
+- Learning SQL through online courses (Coursera)
+
+EDUCATION
+B.Sc. in Statistics | University of Texas | 2023
+GPA: 3.5/4.0
+
+PROJECTS
+- University capstone: Statistical analysis of traffic data using R
+- Personal project: Python web scraping script for price comparison

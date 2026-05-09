@@ -1,0 +1,29 @@
+EVA SHARMA
+Email: eva.sharma@email.com | Phone: +91-9871234560 | Location: Delhi, India
+
+PROFESSIONAL SUMMARY
+Data Analyst with 2 years of experience in SQL, Power BI, and Python scripting.
+Experienced in stakeholder reporting, KPI dashboards, and business intelligence.
+
+SKILLS
+- Tools: Power BI, Tableau, Excel, Google Data Studio
+- Languages: SQL, Python, DAX
+- Libraries: Pandas, Matplotlib
+- Databases: MySQL, SQL Server
+- Others: Git, Confluence, JIRA
+
+WORK EXPERIENCE
+Data Analyst | FinanceFirst Ltd | Aug 2022 – Present (2 years)
+- Developed 15+ Power BI dashboards used by C-level executives
+- Optimized SQL queries improving run time by 60%
+- Automated monthly Excel reports using Python openpyxl library
+
+EDUCATION
+B.Tech in Electronics | Delhi Technological University | 2022 | CGPA: 7.9
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate (2023)
+
+PROJECTS
+HR Analytics Dashboard: Power BI + SQL dashboard for headcount and attrition analysis.
+Stock Price Tracker: Python script to track and visualize NSE stock prices.

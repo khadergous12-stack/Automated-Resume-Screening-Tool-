@@ -1,0 +1,30 @@
+BOB KUMAR
+Email: bob.kumar@email.com | Phone: +91-9123456789 | Location: Hyderabad, India
+GitHub: github.com/bobkumar
+
+PROFESSIONAL SUMMARY
+Python Developer with 1.5 years of experience. Familiar with Flask, REST APIs, and Pandas.
+Eager learner with strong fundamentals in data structures and algorithms.
+
+SKILLS
+- Languages: Python, JavaScript, HTML, CSS
+- Frameworks: Flask, Django basics
+- Libraries: Pandas, NumPy, Requests
+- Tools: Git, VS Code, Postman
+- Databases: MySQL
+
+WORK EXPERIENCE
+Python Developer Intern | Startify Tech | Jul 2022 – Dec 2022 (6 months)
+- Developed REST API using Flask for internal inventory management
+- Wrote Python scripts to automate data extraction from PDFs
+
+Junior Developer | CodeNest | Jan 2023 – Jun 2023 (6 months)
+- Built data pipelines using Pandas and NumPy
+- Created SQL reports for business analytics team
+
+EDUCATION
+B.Tech in Information Technology | JNTU Hyderabad | 2022 | CGPA: 7.5
+
+PROJECTS
+Resume Parser: NLP-based tool to extract skills and contact details from PDFs.
+Flask API: REST API with JWT authentication for a task management application.

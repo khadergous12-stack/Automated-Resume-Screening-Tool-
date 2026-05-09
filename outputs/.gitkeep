@@ -1,0 +1,4 @@
+This folder stores generated output files:
+- screening_results.csv    (main ranking report)
+- evaluation_plots.png     (ROC/PR curves)
+- results_<job_id>.csv     (API-generated reports)

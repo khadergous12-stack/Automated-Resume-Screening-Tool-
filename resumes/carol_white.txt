@@ -1,0 +1,35 @@
+Carol White
+Email: carol.white@email.com | Phone: +1-555-0303
+Location: Chicago, IL
+
+SUMMARY
+Business Intelligence Analyst with 5 years of experience. Expert in SQL, Excel, and Power BI.
+Strong communication and stakeholder management skills. Experience with Python data analysis.
+
+SKILLS
+- Languages: SQL, Python, DAX
+- Tools: Power BI, Excel, Tableau, SSRS
+- Libraries: Pandas, NumPy, Openpyxl
+- Databases: SQL Server, Oracle, PostgreSQL
+- Other: Data Warehousing, ETL, Business Intelligence, Data Storytelling
+
+EXPERIENCE
+BI Analyst | Enterprise Solutions | 2019 - Present (5 years)
+- Designed and maintained 30+ Power BI reports used by 200+ stakeholders
+- Wrote advanced SQL queries and stored procedures for data extraction
+- Built Python automation scripts reducing manual Excel work by 70%
+- Led data governance initiatives across 3 departments
+
+Data Analyst | InsightCo | 2017 - 2019 (2 years)
+- Created Excel dashboards and pivot tables for management reporting
+- Developed SQL-based ETL pipelines for data warehouse population
+- Trained 10 junior analysts on SQL and Excel best practices
+
+EDUCATION
+MBA, Business Analytics | University of Chicago | 2017
+B.Tech in Computer Science | Illinois Tech | 2015
+
+CERTIFICATIONS
+- Microsoft Certified: Data Analyst Associate (Power BI)
+- SQL Server Certification (2020)
+- Tableau Desktop Specialist

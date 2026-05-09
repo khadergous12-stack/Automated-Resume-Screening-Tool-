@@ -1,0 +1,34 @@
+======================================================================
+   AUTOMATED RESUME SCREENING TOOL - SUMMARY REPORT
+======================================================================
+   Generated: 2026-05-09 18:15:36
+   Job Description: data/job_description.txt
+   Total Candidates Screened: 9
+======================================================================
+
+── SHORTLISTED CANDIDATES ─────────────────────────────────────────
+  #1  Alice Johnson         Score: 66.5%  Skills: 100%  Exp: 4yr
+
+── BORDERLINE CANDIDATES ──────────────────────────────────────────
+  #2  Carol White           Score: 59.4%  Skills: 83%  Exp: 5yr
+       Missing: statistics
+  #3  Eva Sharma            Score: 56.8%  Skills: 83%  Exp: 2yr
+       Missing: statistics
+  #4  Eva Martinez          Score: 56.3%  Skills: 83%  Exp: 3yr
+       Missing: statistics
+
+── REJECTED CANDIDATES ────────────────────────────────────────────
+  #5  David Kumar           Score: 43.7%  Skills: 83%
+       Missing: pandas
+  #6  Bob Smith             Score: 39.3%  Skills: 50%
+       Missing: excel, power bi, statistics
+  #7  Bob Kumar             Score: 35.0%  Skills: 50%
+       Missing: excel, power bi, statistics
+  #8  Carol Patel           Score: 33.6%  Skills: 33%
+       Missing: excel, power bi, pandas, statistics
+  #9  David Rao             Score: 9.3%  Skills: 17%
+       Missing: sql, python, power bi, pandas, statistics
+
+======================================================================
+   SUMMARY: ✅ Shortlisted: 1  ⚠️ Borderline: 3  ❌ Rejected: 5
+======================================================================

@@ -1,0 +1,27 @@
+Bob Smith
+Email: bob.smith@email.com | Phone: +1-555-0202
+Location: San Francisco, CA
+
+SUMMARY
+Software Engineer with 2 years of experience in Java and JavaScript. Basic knowledge of databases.
+Currently learning Python and data analysis tools.
+
+SKILLS
+- Languages: Java, JavaScript, HTML, CSS
+- Tools: Git, Docker, VS Code
+- Databases: MySQL (basic)
+- Learning: Python, Pandas
+
+EXPERIENCE
+Junior Software Developer | TechStart Inc. | 2022 - Present (2 years)
+- Developed web applications using JavaScript and HTML
+- Maintained MySQL databases with basic SQL queries
+- Collaborated with team using Git version control
+
+Intern Developer | CodeBase Ltd. | 2021 - 2022 (1 year)
+- Assisted in front-end development tasks
+- Basic database operations using SQL
+
+EDUCATION
+B.Sc. in Information Technology | San Francisco State University | 2021
+GPA: 3.2/4.0
